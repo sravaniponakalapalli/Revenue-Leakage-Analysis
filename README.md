@@ -1,5 +1,7 @@
 # Revenue Leakage & Profitability Analysis
 
+![Dashboard Preview](https://github.com/sravaniponakalapalli/images/blob/main/revenue%20lekage%20dashboard.png)
+
 This project investigates revenue leakage in an e-commerce dataset by analyzing profit, discounts, product performance, and operational costs.
 
 The objective is to identify hidden profit losses and opportunities to improve profitability.
